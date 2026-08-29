@@ -17,4 +17,3 @@ A Vice City-inspired neon theme for [Omarchy](https://github.com/omacom/omarchy)
 3. Enter the GitHub repository URL:
    ```text
    https://github.com/sndpsdhsvm/omarchy-gta6-theme
-
