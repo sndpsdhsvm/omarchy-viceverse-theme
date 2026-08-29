@@ -10,8 +10,6 @@ A Vice City-inspired neon theme for [Omarchy](https://github.com/omacom/omarchy)
 
 ## Installation
 
-### Method 1: Via Omarchy Menu (Recommended)
-
 1. Open the Omarchy menu (`Super + Space`).
 2. Go to **Install** > **Style** > **Theme**.
 3. Enter the GitHub repository URL:
