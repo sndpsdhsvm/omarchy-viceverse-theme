@@ -8,17 +8,6 @@ A Vice City-inspired neon theme for [Omarchy](https://github.com/omacom/omarchy)
 
 **omarchy-gta6-theme** brings the high-energy, neon aesthetic of modern Vice City artwork directly to your desktop environment. Built specifically for the Omarchy framework, it defines a unified color palette and asset package designed for daily productivity and aesthetic appeal.
 
-## Color Palette Highlights
-
-| Accent / Element | Hex Code 
-| :--- | :--- | :--- |
-| **Neon Pink / Primary** | `#FF007F`
-| **Vice Cyan / Secondary** | `#00F0FF`
-| **Sunset Purple / Accent** | `#9D4EDD`
-| **Midnight / Background** | `#0D0F18`
-
----
-
 ## Installation
 
 ### Method 1: Via Omarchy Menu (Recommended)
