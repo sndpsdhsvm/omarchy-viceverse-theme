@@ -1,4 +1,4 @@
-# omarchy-viceverse-theme
+# Viceverse
 
 omarchy-viceverse-theme brings the cinematic, synthwave-soaked aesthetic of Vice City and the modern high-definition style of GTA VI straight to your [Omarchy](https://omarchy.org/) environment.
 
