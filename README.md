@@ -15,4 +15,4 @@ Designed with a high-contrast palette of deep twilight purples, vivid sunburst m
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/sndpsdhsvm/omarchy-gta6-theme.git
+omarchy-theme-install https://github.com/sndpsdhsvm/omarchy-viceverse-theme.git
